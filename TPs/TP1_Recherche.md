@@ -38,7 +38,7 @@ Dans ce travail, vous allez effectuer des recherches pour reconnaître la chrono
 11. Quel était le problème de DES par rapport aux microprocesseurs ?  
 12. Quel algorithme a remplacé le DES ? Quel est son avantage pour sa longévité ?
 
-Remettre vos réponses dans un document sur léa. S.v.p., bien identifier vos réponses.
+Remettre vos réponses dans un document sur léa. Une remise par équipe. S.v.p., bien identifier vos réponses.
 
 #### Étape 2 : Correction
 

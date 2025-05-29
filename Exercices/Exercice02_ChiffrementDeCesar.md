@@ -1,6 +1,6 @@
 # Exercice 2 – Chiffrement de César
 
-##Informations
+## Informations
 
 **Évaluation** : formative  
 **Type de travail** : individuel  

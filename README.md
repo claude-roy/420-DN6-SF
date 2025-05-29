@@ -1,6 +1,6 @@
 # Cryptographie et VPN 420-DN6-SF
 
-## UBR 4155, été 2025
+## UBR 4155, hiver 2025
 
 ## CALENDRIER
 

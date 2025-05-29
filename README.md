@@ -9,7 +9,7 @@ Ce calendrier est donné à titre indicatif et peut être modifié en fonction d
 | Cours | Date | Contenu | Évaluations<br> Date de remise* |
 | :---: | :---: | :--- | :--- |
 | 1 | 9 juin | Présentation du plan de cours<br>  Introduction à la cryptographie<br>  Travail pratique 1 : Historique de la cryptographie - [TP1](TPs/TP1_Recherche.md) | 23 juin |
-| 2 | 11 juin | Chiffrement de César<br>  Exercice 1 – Installation de l’environnement de travail - [EX01](Exercices/Exercice01_InstallationEnvironnementTravail.md)<br>  Exercice 2 – Chiffrement de César |  |
+| 2 | 11 juin | Chiffrement de César<br>  Exercice 1 – Installation de l’environnement de travail - [EX01](Exercices/Exercice01_InstallationEnvironnementTravail.md)<br>  Exercice 2 – Chiffrement de César - [EX02](Exercices/Exercice02_ChiffrementDeCesar.md) |  |
 | 3 | 16 juin | Chiffrement de substitution<br>  Exercice 3 – Chiffrement de Substitution et analyse de fréquence |  |
 | 4 | 18 juin | One Time Pad<br>  Exercice 4 – One Time Pad |  |
 | 5 | 23 juin | Chiffrement de flux (Stream Ciphers)<br>  Exercice 5 – Chiffrement de flux (Stream Ciphers) | |

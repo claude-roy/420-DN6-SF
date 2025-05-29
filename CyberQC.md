@@ -11,16 +11,16 @@ Une fois connectée au VPN, cliquez sur **OpenNebula** et utilisez les mêmes id
 ## Connexion aux machines virtuelles avec OpenNebula  
 Une fois connectée, vous arrivez à votre tableau de bord. Pour accéder à vos VMs, cliquez sur le carré du groupe.
 
-![Accès aux VMs](img/groupeVMs.png)
+![Accès aux VMs](images/groupeVMs.png)
 
 Cliquez sur la VM que vous voulez accéder.  
 
-![Accès à une VM](img/AccesVM.png)
+![Accès à une VM](images/AccesVM.png)
 
 
 Pour vous connecter sur une machine, cliquez sur l'icône d'écran vis-à-vis la machine souhaitée et choisissez VNC. 
  
-![Connexion à une VM](img/ConnexionVM.png)
+![Connexion à une VM](images/ConnexionVM.png)
 
 
 Les identifiants des machines virtuelles sont :  
@@ -43,7 +43,7 @@ ip link
 ### Instantanés (snapshot)
 
 Pour créer un instantané, cliquer sur **Instantanés**, puis sur **Prendre un instantané**.  
-![Prendre instantané](img/instantan01.png)  
+![Prendre instantané](images/instantan01.png)  
 
 Pour revenir à un instantané, cliquer sur **Revenir**.  
-![Revenir à un instantané](img/instantan02.png)  
+![Revenir à un instantané](images/instantan02.png)  

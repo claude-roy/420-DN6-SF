@@ -137,7 +137,7 @@ Le message est-il déchiffré ?
 
 Ajoutez une fonction <code>generate\_dkey(key)</code> au début de votre code qui inverse les paires clé:valeur de toutes les entrées de la clé de mappage.
 
-Après avoir créeéla fonction <code>generate\_dkey(key)</code>, modifiez votre code comme suit :
+Après avoir créé la fonction <code>generate\_dkey(key)</code>, modifiez votre code comme suit :
 
 ```python
 dkey = generate_dkey(key)

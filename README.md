@@ -6,7 +6,7 @@
 
 Ce calendrier est donné à titre indicatif et peut être modifié en fonction des circonstances. Dans le cas des examens, les étudiants seront toujours avisés dans un délai raisonnable
 
-| Cours | Date | Contenu | Évaluations<br> Date de remise* |
+| Cours | Date | Contenu | Évaluations<br> Date de remise [^1]|
 | :---: | :---: | :--- | :--- |
 | 1 | 9 juin | Présentation du plan de cours<br>  Introduction à la cryptographie<br>  Travail pratique 1 : Historique de la cryptographie - [TP1](TPs/TP1_Recherche.md) | 23 juin |
 | 2 | 11 juin | Chiffrement de César<br>  Exercice 1 – Installation de l’environnement de travail - [EX01](Exercices/Exercice01_InstallationEnvironnementTravail.md)<br>  Exercice 2 – Chiffrement de César - [EX02](Exercices/Exercice02_ChiffrementDeCesar.md) |  |
@@ -29,7 +29,7 @@ Ce calendrier est donné à titre indicatif et peut être modifié en fonction d
 | 19 | 8 sep. | Évaluation finale à caractère synthèse | 10 sept. |
 | 20 | 10 sep. | Évaluation finale à caractère synthèse |  |  
 
-\* Entre la date de remise de ce calendrier et léa, c'est l'information sur léa qui prévaut.
+[^1]: Entre la date de remise de ce calendrier et léa, c'est l'information sur léa qui prévaut.
 
 ### Récapitulatif de la pondération des évaluations sommatives
 

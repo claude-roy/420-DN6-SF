@@ -241,7 +241,7 @@ Nous savons que c’est le chiffrement de substitution : aujourd’hui, on conn
 
 Nous allons écrire un script qui va analyser l’utilisation des lettres dans notre texte et nous pourrons alors le comparer à l’annexe 1 pour trouver des équivalences.
 
-Utiliser le fichier <code>AnalyseDeFrequence.py</code> et ajouter le code suivant.
+Utiliser le fichier [Exercice03_AnalyseDeFrequence.py](extra/Exercice03_AnalyseDeFrequence.py) et ajouter le code suivant.
 
 ```python
 # On utilise un dictionnaire pour enregistrer

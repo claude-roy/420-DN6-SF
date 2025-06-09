@@ -151,7 +151,7 @@ Est-il possible de faire la même chose avec le chiffrement par blocs ?
 Modifiez le message pour le message d’Alice suivant (il y a 4 espaces après :).
 
 ```python
-message = b"Vers Bob: 10$"
+message = b"Vers Bob:    10$"
 ```  
 
 Remettre le mode de la clé à ECB.

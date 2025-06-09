@@ -247,7 +247,7 @@ Effectivement, si l’on change seulement 1 bit dans un bloc, il n’est plus po
 Maintenant, vérifions si un bloc « briser » détruit le reste des blocs chiffrés. Changez le texte d’Alice pour le suivant :
 
 ```python
-message = b"Vers Bob: 10$ et lui souhaiter bonne chance."
+message = b"Vers Bob:    10$ et lui souhaiter bonne chance."
 ``` 
 
 Exécutez votre code.

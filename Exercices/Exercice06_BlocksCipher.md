@@ -134,10 +134,12 @@ En mode CBC, chaque bloc de texte en clair est XOR avec le bloc de texte chiffr�
 Changez le vecteur d’initialisation pour des 1 pour voir le changement dans les blocs.
 
 <details>
-<summary markdown="span">Modification à faire :</summary>
+<summary markdown="span">Modification à faire :</summary>  
+
 ```python
 iv = bytes([1]*8)
 ```  
+
 </details>  
 
 #### Étape 2 : Modifier le texte chiffré

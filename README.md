@@ -14,7 +14,7 @@ Ce calendrier est donné à titre indicatif et peut être modifié en fonction d
 | 4 | 18 juin | One Time Pad<br>  Exercice 4 – One Time Pad [EX04](Exercices/Exercice04_OneTimePad.md)|  |
 | 5 | 23 juin | Chiffrement de flux (Stream Ciphers)<br>  Exercice 5 – Chiffrement de flux (Stream Ciphers) [EX05](Exercices/Exercice05_StreamCipher.md)| |
 | 6 | 25 juin | Chiffrement par blocs (Blocks Ciphers)<br>  Exercice 6 – Chiffrement par blocs (Blocks Ciphers) [EX06](Exercices/Exercice06_BlocksCipher.md)|  |
-| 7 | 30 juin | Distribution de clé<br>  Exercice 7 – Calculs modulaires<br>  Exercice 8 – Deffie-Hellman, la distribution de clés |  |
+| 7 | 30 juin | Distribution de clé<br>  Exercice 7 – Calculs modulaires [EX07](Exercices/Exercice07_CalculationModulaire.md)<br>  Exercice 8 – Deffie-Hellman, la distribution de clés [EX08](Exercices/Exercice08_DeffieHellman.md)|  |
 | 8 | 2 juil. | Chiffrement avec clé publique – RSA<br>  Exercice 9 – RSA |  |
 | 9 | 7 juil. | Fonction de hash  Signature numérique<br>  Exercice 10 – Fonctions de hash et signature numérique |  |
 | 10 | 9 juil. | Évaluation : éléments de la cryptographie et de la cryptanalyse | 15 août |

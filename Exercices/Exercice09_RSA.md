@@ -295,7 +295,7 @@ L’étape 2 était de calculer *n*. Mais, nous avons *n*, car il est public.
 
 L’étape 3 était de calculer *λ(n)*. Pour calculer *λ(n)*, on appelle la fonction `lcm(p-1, q-1)`.  
 
-Eve peut calculer . La méthode n’est pas secrète.
+Eve peut calculer *λ(n)*. La méthode n’est pas secrète.
 
 Ajoutez à votre code.
 

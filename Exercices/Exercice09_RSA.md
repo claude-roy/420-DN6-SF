@@ -37,11 +37,8 @@ Ajoutez à votre code le code pour qu’Alice se génère 2 nombres premiers : 
 
 ```python
 # Génération de clé par Alice (secret)
-
 # Étape 1 : générer 2 nombres premiers distincts
-
 ###Votre code ici###
-
 print("Nombres premiers p, q", p, q)
 ```  
 
@@ -60,9 +57,7 @@ Ajoutez le code nécessaire.
 
 ```python
 # Étape 2 : calculer n = p*q
-
 ###Votre code ici###
-
 print("Le modulo n :", n)
 ```  
 
@@ -111,7 +106,7 @@ print("Lambda_n :", lambda_n)
 
 Exécutez votre code et vérifier que vous avez bien un λ(n).
 
-4. Étape 4 : choisir un entier `e` tel que `1 < e < λ(n)` et `gcd(e, λ(n)) = 1`.
+4. Étape 4 : choisir un entier *e* tel que *1 < e < λ(n)* et *gcd(e, λ(n)) = 1*.
 
 Nous allons ajouter une fonction pour calculer `e`. Ajoutez le code suivant.
 
@@ -145,7 +140,7 @@ print("Clé publique (exposant) e :", e)
 
 Exécutez votre code et vérifiez que vous avez bien un *e*.
 
-5. Étape 5 : on trouve *d*. Pour trouver *d*, résoudre pour *d* l'équation `d⋅e ≡ 1 (mod λ(n))`.
+5. Étape 5 : on trouve *d*. Pour trouver *d*, résoudre pour *d* l'équation *d⋅e ≡ 1 (mod λ(n))*.
 
 Nous allons ajouter une fonction pour calculer d. Ajoutez le code suivant.
 
@@ -298,7 +293,7 @@ On se rappelle que l’étape 1 était de créer deux nombres premiers, nous ven
 
 L’étape 2 était de calculer *n*. Mais, nous avons *n*, car il est public.  
 
-L’étape 3 était de calculer . Pour calculer , on appelle la fonction `lcm(p-1, q-1)`.  
+L’étape 3 était de calculer *λ(n)*. Pour calculer *λ(n)*, on appelle la fonction `lcm(p-1, q-1)`.  
 
 Eve peut calculer . La méthode n’est pas secrète.
 
@@ -322,9 +317,7 @@ Ajoutez à votre code.
 
 ```python
 # Eve calcul d
-
 d = trouve_d(e, lambda_n)
-
 print("Clé secrète (exposant) d'Eve d :", d)
 ```  
 

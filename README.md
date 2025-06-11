@@ -16,7 +16,7 @@ Ce calendrier est donné à titre indicatif et peut être modifié en fonction d
 | 6 | 25 juin | Chiffrement par blocs (Blocks Ciphers)<br>  Exercice 6 – Chiffrement par blocs (Blocks Ciphers) - [EX06](Exercices/Exercice06_BlocksCipher.md)|  |
 | 7 | 30 juin | Distribution de clé<br>  Exercice 7 – Calculs modulaires - [EX07](Exercices/Exercice07_CalculationModulaire.md)<br>  Exercice 8 – Deffie-Hellman, la distribution de clés - [EX08](Exercices/Exercice08_DeffieHellman.md)|  |
 | 8 | 2 juil. | Chiffrement avec clé publique – RSA<br>  Exercice 9 – RSA - [EX09](Exercices/Exercice09_RSA.md)|  |
-| 9 | 7 juil. | Fonction de hash  Signature numérique<br>  Exercice 10 – Fonctions de hash et signature numérique |  |
+| 9 | 7 juil. | Fonction de hash  Signature numérique<br>  Exercice 10 – Fonctions de hash et signature numérique - [EX10](Exercices/Exercice10_HashSignatureNumerique.md)|  |
 | 10 | 9 juil. | Évaluation : éléments de la cryptographie et de la cryptanalyse | 15 août |
 | 11 | 11 août | Introduction au VPN<br>  Exercice 11 – VPN - Topologies |  |
 | 12 | 13 août | Exercice 12 – OpenVPN – Site à site |  |

@@ -393,9 +393,9 @@ Nous allons comprendre l’utilité du sel en reproduisant l'entrée du fichier 
 
 Malheureusement, l’algorithme exact utilisé par Linux pour SHA-512 est complexe, avec :  
 
-	•	Un algorithme de dérivation de clé spécial (non standard),
-	•	Des permutations, concaténations, itérations personnalisées,
-	•	Ce qui veut dire que le résultat n'est pas l'équivalent à un simple hashlib.sha512.
+*	Un algorithme de dérivation de clé spécial (non standard),
+*	Des permutations, concaténations, itérations personnalisées,
+*	Ce qui veut dire que le résultat n'est pas l'équivalent à un simple hashlib.sha512.
 
 Créez un nouveau document `Shadow.py`.
 

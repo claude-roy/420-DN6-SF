@@ -391,7 +391,8 @@ Donc, nous avons trois pièces d’informations pour travailler. Le 6 nous indiq
 
 Nous allons comprendre l’utilité du sel en reproduisant l'entrée du fichier `/etc/shadow`. Notre résultat ne sera pas exactement comme l'entrée de `/etc/shadow`.
 
-Malheureusement, l’algorithme exact utilisé par Linux pour SHA-512 est complexe, avec :
+Malheureusement, l’algorithme exact utilisé par Linux pour SHA-512 est complexe, avec :  
+
 	•	Un algorithme de dérivation de clé spécial (non standard),
 	•	Des permutations, concaténations, itérations personnalisées,
 	•	Ce qui veut dire que le résultat n'est pas l'équivalent à un simple hashlib.sha512.

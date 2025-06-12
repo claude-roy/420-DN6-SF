@@ -368,7 +368,7 @@ Qu’est-ce qu’un sel (salt) ? Encore, si l’on se réfère à Wikipédia :
 
 Regardons une entrée du fichier /etc/shadow de Linux. La fonction de hash ici est sha512.
 
-![Entrée de mot de passe sha512 dans shadow.](../images/LinuxShadow.png)
+![Entrée de mot de passe sha512 dans shadow.](../images/LinuxShadow.png)  
 **Figure 1 : Entrée de mot de passe sha512 dans /etc/shadow.**  
 
 Une entrée est divisée en plusieurs champs séparés par « : ». Nous allons ignorer les derniers champs et nous concentrer sur les deux premiers. Le premier représente le nom d’utilisateur et le deuxième le mot de passe.

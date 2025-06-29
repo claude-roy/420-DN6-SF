@@ -331,7 +331,7 @@ L’implémentation que nous avons faite suit l’idée originale de l’algorit
 
 La section « Security »[[3]](#footnote-3) de la page Wikipédia nous indique aussi les faiblesses de l’algorithme et les types d’attaques. Un point important pour sa sécurité est l’utilisation d’un très grand nombre premier. À la fin de cette section, il est indiqué :
 
-« Pour éviter ces vulnérabilités, les auteurs de Logjam recommandent l'utilisation de la cryptographie à courbe elliptique, pour laquelle aucune attaque similaire n'est connue. À défaut, ils recommandent que l'ordre, *p*, du groupe Diffie-Hellman soit d'au moins 2048 bits. Ils estiment que le précalcul requis pour un nombre premier de 2048 bits est 109 fois plus difficile que pour des nombres premiers de 1024 bits. »[[4]](#footnote-4)
+« Pour éviter ces vulnérabilités, les auteurs de Logjam recommandent l'utilisation de la cryptographie à courbe elliptique, pour laquelle aucune attaque similaire n'est connue. À défaut, ils recommandent que l'ordre, *p*, du groupe Diffie-Hellman soit d'au moins 2048 bits. Ils estiment que le précalcul requis pour un nombre premier de 2048 bits est 10<sup>9</sup> fois plus difficile que pour des nombres premiers de 1024 bits. »[[4]](#footnote-4)
 
 Compétences développées
 

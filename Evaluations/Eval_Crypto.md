@@ -186,7 +186,7 @@ Inclure une capture d’écran démontrant l’exécution de votre script.
 | **Partie 7** | 20 |  |
 | **Total** | 100 |  |
 
-\*Vous perdez 50 % de la note de la question pour un script qui s’exécute avec des erreurs. La question de la partir vaut pour 2 points.
+\*Vous perdez 50 % de la note de la question pour un script qui s’exécute avec des erreurs. La question de la partie vaut pour 2 points.
 
 ## Compétences évaluées
 

@@ -18,7 +18,7 @@ Ce calendrier est donné à titre indicatif et peut être modifié en fonction d
 | 8 | 2 juil. | Chiffrement avec clé publique – RSA<br>  Exercice 9 – RSA - [EX09](Exercices/Exercice09_RSA.md)|  |
 | 9 | 7 juil. | Fonction de hash<br>Signature numérique<br>  Exercice 10 – Fonctions de hash et signature numérique - [EX10](Exercices/Exercice10_HashSignatureNumerique.md)|  |
 | 10 | 9 juil. | Évaluation : éléments de la cryptographie et de la cryptanalyse- [Évaluation1](Evaluations/Eval_Crypto.md) | 15 août |
-| 11 | 11 août | Introduction au VPN<br>  Exercice 11 – VPN - Topologies |  |
+| 11 | 11 août | Introduction au VPN<br>  Exercice 11 – VPN - Topologies - [EX11](Exercices/Exercice11_VPN-Topologie-pfSense.md) |  |
 | 12 | 13 août | Exercice 12 – OpenVPN – Site à site |  |
 | 13 | 18 août | Exercice 13 – OpenVPN – Accès distant |  |
 | 14 | 20 août | Exercice 14 – IPsec – Site à site |  |
